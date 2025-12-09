@@ -98,7 +98,7 @@ I'm a passionate Full Stack Developer who loves building scalable, user-focused 
 ## 📎 Quick Links
 
 - 🌐 **Portfolio**: https://portfolio-black-psi-77.vercel.app/
-- 📄 **Resume**: https://drive.google.com/file/d/124KBIH2gCCtFbCl2Ymdw77XvFWl566tE/view?usp=sharing
+- 📄 **Resume**: https://drive.google.com/uc?export=download&id=1IKhBsos8WG91aU-rz-JKJl_lj0dei2Xx
 - 🔍 **LeetCode**: https://leetcode.com/u/Rakesh_Kota/ 
 - 📚 **GeeksforGeeks**: https://www.geeksforgeeks.org/profile/kotarakesh555
 
